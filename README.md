@@ -1,6 +1,4 @@
 # Web_Development-Mini_Project
-This is an mini project on designing an website named GAMERSNATION using web technolgies. IMAGES folder(https://drive.google.com/open?id=1nrR6qrenAPhGQ8er_rPUoB0w18g0m-EL)
-
 
 # Introduction
 
@@ -25,19 +23,21 @@ Organise all the files in appropriate folder
 
 3) Download Images folder through the provided google drive link(File Size : 300MB approx.)
       
-4)After assembling all the required files run the index.html file to launch the website.  
+ 4)After assembling all the required files run the index.html file to launch the website.  
   
 
 ## More about files
 
-The Images folder of this project is available on [Images Folder](https://drive.google.com/open?id=1nrR6qrenAPhGQ8er_rPUoB0w18g0m-EL).
+The Images folder of this project is available here on [Images Folder](https://drive.google.com/open?id=1nrR6qrenAPhGQ8er_rPUoB0w18g0m-EL).
 
 
 
-## Sample image of final result
+## Sample image
 
 ![sample_image1](1.png)
 ![sample_image2](2.png)
 ![sample_image3](3.png)
 ![sample_image4](4.png)
+
+## Sample clip
 ![sample_gif](websample.gif)
