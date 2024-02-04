@@ -1,4 +1,4 @@
-# Web_Development-Mini_Project
+# Web development : Mini Project 
 
 # Introduction
 
